@@ -1,0 +1,1 @@
+python C:\work\python\python_django\Investar\manage.py runserver 0.0.0.0:8000
